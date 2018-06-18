@@ -1,0 +1,72 @@
+body {
+  background: #2f558e url(../img/bg.png) repeat 0 0;
+  background-size: 400px auto;
+  font-family: sans-serif;
+}
+img {
+  display: block;
+  width: 150px;
+  margin: 50px auto;
+}
+button {
+  background: #dae1e4;
+  border: none;
+  border-radius: 5px;
+  color: #1d3c6a;
+  font-size: 24px;
+  width: 480px;
+  padding: 40px 0;
+  margin: 0px -20px;
+  outline: none;
+  cursor: pointer;
+}
+
+.wrapper {
+  background-color: #1d3c6a;
+  padding: 05px 10px;
+  text-align: center;
+  border-radius: 10px;
+  width: 400px;
+  margin: auto;
+  color: #fff;
+  margin-bottom: 10px;
+
+}
+
+.form-control {
+  margin-bottom: 8px;
+}
+
+.container {
+  background-color: #1d3c6a;
+  margin: auto;
+  margin-bottom: 10px; 
+  border-radius: 10px;
+}
+
+header h4 a {
+  margin-left: 10px;
+  color:#fff;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#movies img {
+  width: 100%;
+}
+
+#movies .col-md-4 .well {
+  height: 480px;
+  margin-top:10px;
+  background-color: #112440;
+  color: #fff;
+  border-color: #112440;
+}
+
+#movies .col-md-4 img {
+  height: 240px;
+}
+
+.well {
+  margin-top: 15px;
+}
